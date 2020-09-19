@@ -1,0 +1,19 @@
+.bg{
+	background-color: red;
+}
+.head-text{
+	font-size: 35px;
+	font-weight:600;
+}
+.menu{
+	text-align: center !important;
+	padding: 30px 0px;
+}
+.container-fluid{
+	background-color: pink;
+	height:1000px;
+	border: 1px solid black;
+}
+.collapse{
+	background-color: lightblue;
+}
